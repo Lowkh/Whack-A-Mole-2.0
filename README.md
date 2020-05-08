@@ -1,4 +1,4 @@
-# MAD Practical 4 - Dialog and Timer
+# MAD Practical 4 - Event Handling
 This week's practical you will be enhancing your "Whack-A-Mole!" version 1.0 to a version 2.0.
 
 1. Check out this repository using your Android Studio to work on your practical. First, retrieve the git link by clicking on the ![Clone or download](/images/clone.PNG), located on top right corner of the repo.
